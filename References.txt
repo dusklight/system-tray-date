@@ -1,0 +1,13 @@
+﻿Tray icon:
+http://www.vbforfree.com/display-text-in-the-system-traynotify-icon/
+
+Updating when system resumes:
+http://msdn.microsoft.com/en-us/library/microsoft.win32.systemevents.aspx
+http://stackoverflow.com/questions/8069658/how-can-i-react-to-windows-waking-from-sleep-mode-in-a-wpf-application/ (Added removing of the event as described in the msdn article).
+
+Font width (for centering), and better rendering method
+http://stackoverflow.com/questions/263614/calculate-the-display-width-of-a-string-in-c
+http://blogs.msdn.com/b/jfoscoding/archive/2005/10/13/480632.aspx (via one of the answers from above)
+
+Cancel minimize
+http://stackoverflow.com/questions/3737053/cancel-a-winform-minimize
